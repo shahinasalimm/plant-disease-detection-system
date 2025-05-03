@@ -22,5 +22,4 @@ The model is trained on a publicly available tomato leaf disease dataset.
    ```bash
    git clone https://github.com/shahinasalimm/tomato-leaf-disease.git
    cd tomato-leaf-disease)*  
-(Update this link if you used a different dataset)
 
