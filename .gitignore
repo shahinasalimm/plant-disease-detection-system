@@ -5,7 +5,8 @@ venv/
 # Ignore Python cache files
 __pycache__/
 *.pyc
-
+# ignore image
+your_image.jpg
 # Ignore editor and environment config folders
 .vscode/
 .env/
