@@ -2,10 +2,13 @@
 
 A deep learning-based web application for detecting diseases in tomato leaves. This project uses a *pre-trained MobileNetV2* model for image classification, wrapped in a simple Flask web interface that allows users to upload tomato leaf images and receive disease predictions.
 
-## 🖼️ Screenshot
+## 🖼️ TomatoSure UI Screenshots
 
-![TomatoSure Screenshot](screenshots/home.png)
-(screenshot/result.png)
+### 🏠 Home Page
+![Home Page](screenshots/home.png)
+
+### ✅ Result Page
+![Result Page](screenshots/result.png)
 
 ## Features
 
