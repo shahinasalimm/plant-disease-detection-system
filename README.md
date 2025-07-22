@@ -4,7 +4,7 @@ A deep learning-based web application for detecting diseases in tomato leaves. T
 
 ## 🖼️ Screenshot
 
-![TomatoSure Screenshot](screenshot/home.png)
+![TomatoSure Screenshot](screenshots/home.png)
 (screenshot/result.png)
 
 ## Features
